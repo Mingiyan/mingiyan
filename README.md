@@ -1,5 +1,5 @@
 ### Hi there, my name is Mingiyan Dordzhiev 👋
-#### I'm are Software Developer
+#### I'm a Software Developer
 <a href="https://github.com/Mingiyan">
   <img src="https://github-readme-stats.vercel.app/api?username=Mingiyan&theme=algolia&include_all_commits=true&count_private=true&" height="150px"/>
 </a>
